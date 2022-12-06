@@ -1,0 +1,17 @@
+body{
+    font-size: 30px;
+}
+
+h1{
+    background-color: rgb(232, 204, 44);
+    text-align: center;
+}
+
+li{
+    line-height: 20mm;
+}
+
+footer{
+    color:aliceblue;
+    text-align: right;
+}
